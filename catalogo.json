@@ -2,12 +2,12 @@
   "diseños": [
     {
       "id": 1,
-      "nombre": "Chopp Cervecero 500ml",
-      "descripcion": "Vaso de 500ml con manija doble",
+      "nombre": "Chop La Mona Gimenez 1L",
+      "descripcion": "archivo en 3mf listo para imprimir",
       "categoria": "Chopp",
-      "imagen": "https://drive.google.com/uc?export=view&id=TU_ID_IMAGEN",
-      "stl": "https://drive.google.com/uc?export=download&id=TU_ID_STL",
-      "fecha": "2025-03-22",
+      "imagen": "https://drive.google.com/uc?export=view&id=https://go.clarodrive.com/L5rNI2ck",
+      "stl": "https://drive.google.com/uc?export=download&id=https://go.clarodrive.com/HTUXp9ek",
+      "fecha": "2026-03-23",
       "nuevo": true
     }
   ]
