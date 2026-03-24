@@ -29,6 +29,76 @@
       "stl": "https://i0004.clarodrive.com/s/pdEd4fNxLZYazey/download/Pintado.3mf",
       "fecha": "2026-03-23",
       "nuevo": true
+    },
+    {
+      "id": 5,
+      "nombre": "Chop 500ml",
+      "descripcion": "Puedes combinar con distintos colores",
+      "categoria": "Chopp",
+      "imagen": "https://i.imgur.com/Ib8u6bf.jpg",
+      "stl": "https://i0004.clarodrive.com/s/NEbYWPSW35oTfXH/download/Chop%20V4.stl",
+      "fecha": "2026-03-23",
+      "nuevo": true
+    },
+    {
+      "id": 6,
+      "nombre": "Chop Tumbita 600ml.",
+      "descripcion": "Archivo completo en formato .3mf",
+      "categoria": "Chopp",
+      "imagen": "https://i.imgur.com/3VF6D8g.jpg",
+      "stl": "https://i0004.clarodrive.com/s/joXRxwXwsH25WWJ/download/Tumbita%20600ml.3mf",
+      "fecha": "2026-03-23",
+      "nuevo": true
+    },
+    {
+      "id": 7,
+      "nombre": "Chop 500ml. Dragon Ball",
+      "descripcion": "Archivo en formato 3mf los logos los encuentras en la seccion logos",
+      "categoria": "Chopp",
+      "imagen": "https://i.imgur.com/r7CtWDi.jpg",
+      "stl": "https://i0004.clarodrive.com/s/ZFLLY5CLyE8YESc/download/Chop%20500ml%20V6%20Dragon%20Ball%20Z.3mf",
+      "fecha": "2026-03-23",
+      "nuevo": true
+    },
+    {
+      "id": 8,
+      "nombre": "Chop River Plate 1 L. con gallo en la base",
+      "descripcion": "Archivo en formato 3mf",
+      "categoria": "Chopp",
+      "imagen": "https://i.imgur.com/TRkkK4m.jpg",
+      "stl": "https://i0004.clarodrive.com/s/SqgfcSi9LcdBe5G/download/Chop%201L%20V5%20River%20Plate.3mf",
+      "fecha": "2026-03-23",
+      "nuevo": true
+    },
+    {
+      "id": 9,
+      "nombre": "Mate tipo Stanley",
+      "descripcion": "Para polimero escalonado",
+      "categoria": "Mates",
+      "imagen": "https://i.imgur.com/1qoqGnB.jpg",
+      "stl": "https://i0004.clarodrive.com/s/S8YF7m45wpZio9D/download/Noster.stl",
+      "fecha": "2026-03-23",
+      "nuevo": true
+    },
+    {
+      "id": 10,
+      "nombre": "Mate Argentina Diseño Elegante",
+      "descripcion": "Para polimero escalonado",
+      "categoria": "Mates",
+      "imagen": "https://i.imgur.com/I1tz2LO.jpg",
+      "stl": "https://i0004.clarodrive.com/s/ML7owHA9EdDQkGC/download/ARGENTINA.3mf",
+      "fecha": "2026-03-23",
+      "nuevo": true
+    },
+    {
+      "id": 11,
+      "nombre": "Mate Stitch por partes sin AMS",
+      "descripcion": "Para polimero Escalonado",
+      "categoria": "Mates",
+      "imagen": "https://i.imgur.com/PL4KBmL.jpg",
+      "stl": "https://i0004.clarodrive.com/s/bdQHQc3xFAAiMxj/download/Stitch%20completo.3mf",
+      "fecha": "2026-03-23",
+      "nuevo": true
     }
   ]
 }
