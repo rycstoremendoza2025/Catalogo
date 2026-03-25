@@ -99,6 +99,36 @@
       "stl": "https://i0004.clarodrive.com/s/bdQHQc3xFAAiMxj/download/Stitch%20completo.3mf",
       "fecha": "2026-03-23",
       "nuevo": true
+    },
+    {
+      "id": 12,
+      "nombre": "Chop 600ml Copa FIFA Argentina",
+      "descripcion": "Archivo en 3mf",
+      "categoria": "Chopp",
+      "imagen": "https://i.imgur.com/R2pJkwT.jpg",
+      "stl": "https://i0004.clarodrive.com/s/MyjgRQfW2M7rj98/download/COPA%20FERNETERA%20600ml.3mf",
+      "fecha": "2026-03-24",
+      "nuevo": true
+    },
+    {
+      "id": 13,
+      "nombre": "Chop 1Litro Copa FIFA Argentina",
+      "descripcion": "1 Litro",
+      "categoria": "Chopp",
+      "imagen": "https://i.imgur.com/R2pJkwT.jpg",
+      "stl": "https://i0004.clarodrive.com/s/6tb5yBJm9cT2doi/download/Chop%20Trofeo%201L..3mf",
+      "fecha": "2026-03-24",
+      "nuevo": true
+    },
+    {
+      "id": 14,
+      "nombre": "Chop Argentina 1L.",
+      "descripcion": "Como los colores de la camiseta Aluminio 1L.",
+      "categoria": "Chopp",
+      "imagen": "https://i.imgur.com/undefined.jpg",
+      "stl": "https://i0004.clarodrive.com/s/Ne67LajbBwyitr9/download/Chop%20Camiseta%20completo.3mf",
+      "fecha": "2026-03-24",
+      "nuevo": true
     }
   ]
 }
