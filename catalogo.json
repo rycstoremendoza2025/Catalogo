@@ -129,6 +129,56 @@
       "stl": "https://i0004.clarodrive.com/s/Ne67LajbBwyitr9/download/Chop%20Camiseta%20completo.3mf",
       "fecha": "2026-03-25",
       "nuevo": true
+    },
+    {
+      "id": 15,
+      "nombre": "Chop V2 1L.",
+      "descripcion": "",
+      "categoria": "Chopp",
+      "imagen": "https://i.imgur.com/mHAKBTh.jpg",
+      "stl": "https://i0004.clarodrive.com/s/wWR75zANGyqreFt/download/Chop%201L%20V2%20con%20agujeritos.stl",
+      "fecha": "2026-03-27",
+      "nuevo": true
+    },
+    {
+      "id": 16,
+      "nombre": "Chop Messi Maradona 1L",
+      "descripcion": "3mf",
+      "categoria": "Chopp",
+      "imagen": "https://i.imgur.com/JgwBwGZ.jpg",
+      "stl": "https://i0004.clarodrive.com/s/SEJsHeseiDydXrj/download/Messi%20y%20Maradona%20Negro.3mf",
+      "fecha": "2026-03-27",
+      "nuevo": true
+    },
+    {
+      "id": 17,
+      "nombre": "Chop Sprite Messi 1L",
+      "descripcion": "3mf Con texto editable",
+      "categoria": "Chopp",
+      "imagen": "https://i.imgur.com/3vc2ehJ.jpg",
+      "stl": "https://i0004.clarodrive.com/s/pbpT8L7oydNjPLd/download/Chop%20Con%20nombre%20editable.3mf",
+      "fecha": "2026-03-27",
+      "nuevo": true
+    },
+    {
+      "id": 18,
+      "nombre": "Logo Sprite",
+      "descripcion": "3mf",
+      "categoria": "Logos",
+      "imagen": "https://i.imgur.com/XbWKXAd.jpg",
+      "stl": "https://i0004.clarodrive.com/s/3HFjbbtMFYWeDmn/download/Logo%20Sprite%20vino.3mf",
+      "fecha": "2026-03-27",
+      "nuevo": true
+    },
+    {
+      "id": 19,
+      "nombre": "Vino Con Sprite",
+      "descripcion": "3mf",
+      "categoria": "Chopp",
+      "imagen": "https://i.imgur.com/yCTLlO5.jpg",
+      "stl": "https://makerworld.bblmw.com/makerworld/model/US151390b9dac54a/571911988/instance/47c9c3f0-1000-4bc0-946a-a9b4518b55f8.3mf?at=1774642076&exp=1774642376&key=93e93338ff60b9de963b06089efc144c&uid=662216395",
+      "fecha": "2026-03-27",
+      "nuevo": true
     }
   ]
 }
