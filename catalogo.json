@@ -179,6 +179,86 @@
       "stl": "https://makerworld.bblmw.com/makerworld/model/US151390b9dac54a/571911988/instance/47c9c3f0-1000-4bc0-946a-a9b4518b55f8.3mf?at=1774642076&exp=1774642376&key=93e93338ff60b9de963b06089efc144c&uid=662216395",
       "fecha": "2026-03-27",
       "nuevo": true
+    },
+    {
+      "id": 20,
+      "nombre": "Base Para Chop 1L V1",
+      "descripcion": "Base chop con generador 3D y Bambu studio",
+      "categoria": "Chopp",
+      "imagen": "https://i.imgur.com/ykjBsfc.jpg",
+      "stl": "https://i0004.clarodrive.com/s/2WjXGb2HQmfJQdq/download/Base%20V1.stl",
+      "fecha": "2026-03-29",
+      "nuevo": true
+    },
+    {
+      "id": 21,
+      "nombre": "Base para chop 1l V2",
+      "descripcion": "Base Chop Para generador 3D y bambu studio",
+      "categoria": "Chopp",
+      "imagen": "https://i.imgur.com/7BTiFtV.jpg",
+      "stl": "https://i0004.clarodrive.com/s/GdKrzyNrgiWkC9r/download/Base%20V2.stl",
+      "fecha": "2026-03-29",
+      "nuevo": true
+    },
+    {
+      "id": 22,
+      "nombre": "Base Chop 1L. V3",
+      "descripcion": "Base Chop para generador 3D y Bambu studio",
+      "categoria": "Chopp",
+      "imagen": "https://i.imgur.com/JEoalDN.jpg",
+      "stl": "https://i0004.clarodrive.com/s/6NwNz9iHWm4wSc5/download/Base%20V3.stl",
+      "fecha": "2026-03-29",
+      "nuevo": true
+    },
+    {
+      "id": 23,
+      "nombre": "Manija V1",
+      "descripcion": "Manija para generador 3D y Bambu Studio",
+      "categoria": "Chopp",
+      "imagen": "https://i.imgur.com/0is8xxP.jpg",
+      "stl": "https://i0004.clarodrive.com/s/snMpEosnExDoKZ9/download/V1.stl",
+      "fecha": "2026-03-29",
+      "nuevo": true
+    },
+    {
+      "id": 24,
+      "nombre": "Manija V2 para chop",
+      "descripcion": "Manija para generador 3D y Bambu Studio",
+      "categoria": "Chopp",
+      "imagen": "https://i.imgur.com/Gnzm55S.jpg",
+      "stl": "https://i0004.clarodrive.com/s/CqfCamps5WELEbD/download/V2.stl",
+      "fecha": "2026-03-29",
+      "nuevo": true
+    },
+    {
+      "id": 25,
+      "nombre": "Manija V3",
+      "descripcion": "Manija para generador 3D y Bambu Studio",
+      "categoria": "Chopp",
+      "imagen": "https://i.imgur.com/MoVU2IY.jpg",
+      "stl": "https://i0004.clarodrive.com/s/Dz4TqMnFJ7eK8QW/download/Manija%20V3.3mf",
+      "fecha": "2026-03-29",
+      "nuevo": true
+    },
+    {
+      "id": 26,
+      "nombre": "Aro V1 Parte de arriba Chop 1L",
+      "descripcion": "Aro para generador 3D y Bambu Studio",
+      "categoria": "Chopp",
+      "imagen": "https://i.imgur.com/7NfPQ6k.jpg",
+      "stl": "https://i0004.clarodrive.com/s/84zoJdaPW9DCQKe/download/Aro%20V1.stl",
+      "fecha": "2026-03-29",
+      "nuevo": true
+    },
+    {
+      "id": 27,
+      "nombre": "Aro V2 Parte de arriba chop 1L",
+      "descripcion": "Aro para generador 3D y Bambu Studio",
+      "categoria": "Chopp",
+      "imagen": "https://i.imgur.com/pDt9ce8.jpg",
+      "stl": "https://i0004.clarodrive.com/s/J9cnEtqQdwLaGbk/download/Aro%20V2.stl",
+      "fecha": "2026-03-29",
+      "nuevo": true
     }
   ]
 }
