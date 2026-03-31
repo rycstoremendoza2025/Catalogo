@@ -259,6 +259,16 @@
       "stl": "https://i0004.clarodrive.com/s/J9cnEtqQdwLaGbk/download/Aro%20V2.stl",
       "fecha": "2026-03-29",
       "nuevo": true
+    },
+    {
+      "id": 28,
+      "nombre": "Set Mate Argentina",
+      "descripcion": "Archivo en 3mf incluye el logo",
+      "categoria": "Mates",
+      "imagen": "https://i.imgur.com/cJ04Iuv.jpg",
+      "stl": "https://i0004.clarodrive.com/s/soWnBx5WRR8WgeC/download/argentina%20por%20partes_2.3mf",
+      "fecha": "2026-03-31",
+      "nuevo": true
     }
   ]
 }
