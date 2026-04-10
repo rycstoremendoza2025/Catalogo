@@ -269,6 +269,36 @@
       "stl": "https://i0004.clarodrive.com/s/soWnBx5WRR8WgeC/download/argentina%20por%20partes_2.3mf",
       "fecha": "2026-03-31",
       "nuevo": true
+    },
+    {
+      "id": 29,
+      "nombre": "Chop Copa 600ml",
+      "descripcion": "3mf",
+      "categoria": "Chopp",
+      "imagen": "https://i.imgur.com/CBLbHhY.jpg",
+      "stl": "https://i0004.clarodrive.com/s/ns5FtDPRT2T6K7R/download/Copa%202%20600ml..3mf",
+      "fecha": "2026-04-09",
+      "nuevo": true
+    },
+    {
+      "id": 30,
+      "nombre": "Mate 3 en 1 Copa de oro",
+      "descripcion": "3mf",
+      "categoria": "Mates",
+      "imagen": "https://i.imgur.com/4EpipT0.jpg",
+      "stl": "https://i0004.clarodrive.com/s/EPWCSED8ZrnQ4H5/download/Mate%20Copa%20del%20Mundo.3mf",
+      "fecha": "2026-04-10",
+      "nuevo": true
+    },
+    {
+      "id": 31,
+      "nombre": "Chop 600ml cortado para A1 mini",
+      "descripcion": "3mf",
+      "categoria": "Chopp",
+      "imagen": "https://i.imgur.com/vbxQNxi.jpg",
+      "stl": "https://i0004.clarodrive.com/s/zGgdDi737oeRMGo/download/COPA%20FERNETERA%20Cortado%20600ml.3mf",
+      "fecha": "2026-04-10",
+      "nuevo": true
     }
   ]
 }
