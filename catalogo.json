@@ -8,7 +8,9 @@
       "imagen": "https://i.imgur.com/gHGmE78.jpg",
       "stl": "https://i0004.clarodrive.com/s/ZmzbaBHEZCdoYPf/download/600ml.stl",
       "fecha": "2026-03-23",
-      "nuevo": true
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0
     },
     {
       "id": 3,
@@ -18,7 +20,9 @@
       "imagen": "https://i.imgur.com/kjyb1oI.jpg",
       "stl": "https://i0004.clarodrive.com/s/jpyPnJGBgxG5J8W/download/Barril%201L.3mf",
       "fecha": "2026-03-23",
-      "nuevo": true
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0
     },
     {
       "id": 4,
@@ -26,9 +30,11 @@
       "descripcion": "El archivo se encuentra en .3mf",
       "categoria": "Chopp",
       "imagen": "https://i.imgur.com/LvlDqh3.jpg",
-      "stl": "https://i0004.clarodrive.com/s/pdEd4fNxLZYazey/download/Pintado.3mf",
-      "fecha": "2026-03-23",
-      "nuevo": true
+      "stl": "https://i0004.clarodrive.com/s/pdEd4fNxLZYazey/Pintado.3mf",
+      "fecha": "2026-04-22",
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0.0
     },
     {
       "id": 5,
@@ -38,7 +44,9 @@
       "imagen": "https://i.imgur.com/Ib8u6bf.jpg",
       "stl": "https://i0004.clarodrive.com/s/NEbYWPSW35oTfXH/download/Chop%20V4.stl",
       "fecha": "2026-03-23",
-      "nuevo": true
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0
     },
     {
       "id": 6,
@@ -48,7 +56,9 @@
       "imagen": "https://i.imgur.com/3VF6D8g.jpg",
       "stl": "https://i0004.clarodrive.com/s/joXRxwXwsH25WWJ/download/Tumbita%20600ml.3mf",
       "fecha": "2026-03-23",
-      "nuevo": true
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0
     },
     {
       "id": 7,
@@ -58,7 +68,9 @@
       "imagen": "https://i.imgur.com/r7CtWDi.jpg",
       "stl": "https://i0004.clarodrive.com/s/ZFLLY5CLyE8YESc/download/Chop%20500ml%20V6%20Dragon%20Ball%20Z.3mf",
       "fecha": "2026-03-23",
-      "nuevo": true
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0
     },
     {
       "id": 8,
@@ -68,7 +80,9 @@
       "imagen": "https://i.imgur.com/TRkkK4m.jpg",
       "stl": "https://i0004.clarodrive.com/s/SqgfcSi9LcdBe5G/download/Chop%201L%20V5%20River%20Plate.3mf",
       "fecha": "2026-03-23",
-      "nuevo": true
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0
     },
     {
       "id": 9,
@@ -78,7 +92,9 @@
       "imagen": "https://i.imgur.com/1qoqGnB.jpg",
       "stl": "https://i0004.clarodrive.com/s/S8YF7m45wpZio9D/download/Noster.stl",
       "fecha": "2026-03-23",
-      "nuevo": true
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0
     },
     {
       "id": 10,
@@ -88,7 +104,9 @@
       "imagen": "https://i.imgur.com/I1tz2LO.jpg",
       "stl": "https://i0004.clarodrive.com/s/ML7owHA9EdDQkGC/download/ARGENTINA.3mf",
       "fecha": "2026-03-23",
-      "nuevo": true
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0
     },
     {
       "id": 11,
@@ -98,7 +116,9 @@
       "imagen": "https://i.imgur.com/PL4KBmL.jpg",
       "stl": "https://i0004.clarodrive.com/s/bdQHQc3xFAAiMxj/download/Stitch%20completo.3mf",
       "fecha": "2026-03-23",
-      "nuevo": true
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0
     },
     {
       "id": 12,
@@ -108,7 +128,9 @@
       "imagen": "https://i.imgur.com/R2pJkwT.jpg",
       "stl": "https://i0004.clarodrive.com/s/MyjgRQfW2M7rj98/download/COPA%20FERNETERA%20600ml.3mf",
       "fecha": "2026-03-24",
-      "nuevo": true
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0
     },
     {
       "id": 13,
@@ -118,7 +140,9 @@
       "imagen": "https://i.imgur.com/R2pJkwT.jpg",
       "stl": "https://i0004.clarodrive.com/s/6tb5yBJm9cT2doi/download/Chop%20Trofeo%201L..3mf",
       "fecha": "2026-03-24",
-      "nuevo": true
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0
     },
     {
       "id": 14,
@@ -126,9 +150,11 @@
       "descripcion": "Los colores de la camiseta Aluminio 1L.",
       "categoria": "Chopp",
       "imagen": "https://i.imgur.com/vYRLLco.jpg",
-      "stl": "https://i0004.clarodrive.com/s/Ne67LajbBwyitr9/download/Chop%20Camiseta%20completo.3mf",
-      "fecha": "2026-03-25",
-      "nuevo": true
+      "stl": "https://i0004.clarodrive.com/s/Ne67LajbBwyitr9/Chop%20Camiseta%20completo.3mf",
+      "fecha": "2026-04-22",
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0.0
     },
     {
       "id": 15,
@@ -138,7 +164,9 @@
       "imagen": "https://i.imgur.com/mHAKBTh.jpg",
       "stl": "https://i0004.clarodrive.com/s/wWR75zANGyqreFt/download/Chop%201L%20V2%20con%20agujeritos.stl",
       "fecha": "2026-03-27",
-      "nuevo": true
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0
     },
     {
       "id": 16,
@@ -148,7 +176,9 @@
       "imagen": "https://i.imgur.com/JgwBwGZ.jpg",
       "stl": "https://i0004.clarodrive.com/s/SEJsHeseiDydXrj/download/Messi%20y%20Maradona%20Negro.3mf",
       "fecha": "2026-03-27",
-      "nuevo": true
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0
     },
     {
       "id": 17,
@@ -158,7 +188,9 @@
       "imagen": "https://i.imgur.com/3vc2ehJ.jpg",
       "stl": "https://i0004.clarodrive.com/s/pbpT8L7oydNjPLd/download/Chop%20Con%20nombre%20editable.3mf",
       "fecha": "2026-03-27",
-      "nuevo": true
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0
     },
     {
       "id": 18,
@@ -168,7 +200,9 @@
       "imagen": "https://i.imgur.com/XbWKXAd.jpg",
       "stl": "https://i0004.clarodrive.com/s/3HFjbbtMFYWeDmn/download/Logo%20Sprite%20vino.3mf",
       "fecha": "2026-03-27",
-      "nuevo": true
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0
     },
     {
       "id": 19,
@@ -178,7 +212,9 @@
       "imagen": "https://i.imgur.com/yCTLlO5.jpg",
       "stl": "https://makerworld.bblmw.com/makerworld/model/US151390b9dac54a/571911988/instance/47c9c3f0-1000-4bc0-946a-a9b4518b55f8.3mf?at=1774642076&exp=1774642376&key=93e93338ff60b9de963b06089efc144c&uid=662216395",
       "fecha": "2026-03-27",
-      "nuevo": true
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0
     },
     {
       "id": 20,
@@ -188,7 +224,9 @@
       "imagen": "https://i.imgur.com/ykjBsfc.jpg",
       "stl": "https://i0004.clarodrive.com/s/2WjXGb2HQmfJQdq/download/Base%20V1.stl",
       "fecha": "2026-03-29",
-      "nuevo": true
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0
     },
     {
       "id": 21,
@@ -198,7 +236,9 @@
       "imagen": "https://i.imgur.com/7BTiFtV.jpg",
       "stl": "https://i0004.clarodrive.com/s/GdKrzyNrgiWkC9r/download/Base%20V2.stl",
       "fecha": "2026-03-29",
-      "nuevo": true
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0
     },
     {
       "id": 22,
@@ -208,7 +248,9 @@
       "imagen": "https://i.imgur.com/JEoalDN.jpg",
       "stl": "https://i0004.clarodrive.com/s/6NwNz9iHWm4wSc5/download/Base%20V3.stl",
       "fecha": "2026-03-29",
-      "nuevo": true
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0
     },
     {
       "id": 23,
@@ -218,7 +260,9 @@
       "imagen": "https://i.imgur.com/0is8xxP.jpg",
       "stl": "https://i0004.clarodrive.com/s/snMpEosnExDoKZ9/download/V1.stl",
       "fecha": "2026-03-29",
-      "nuevo": true
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0
     },
     {
       "id": 24,
@@ -228,7 +272,9 @@
       "imagen": "https://i.imgur.com/Gnzm55S.jpg",
       "stl": "https://i0004.clarodrive.com/s/CqfCamps5WELEbD/download/V2.stl",
       "fecha": "2026-03-29",
-      "nuevo": true
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0
     },
     {
       "id": 25,
@@ -238,7 +284,9 @@
       "imagen": "https://i.imgur.com/MoVU2IY.jpg",
       "stl": "https://i0004.clarodrive.com/s/Dz4TqMnFJ7eK8QW/download/Manija%20V3.3mf",
       "fecha": "2026-03-29",
-      "nuevo": true
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0
     },
     {
       "id": 26,
@@ -248,7 +296,9 @@
       "imagen": "https://i.imgur.com/7NfPQ6k.jpg",
       "stl": "https://i0004.clarodrive.com/s/84zoJdaPW9DCQKe/download/Aro%20V1.stl",
       "fecha": "2026-03-29",
-      "nuevo": true
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0
     },
     {
       "id": 27,
@@ -258,7 +308,9 @@
       "imagen": "https://i.imgur.com/pDt9ce8.jpg",
       "stl": "https://i0004.clarodrive.com/s/J9cnEtqQdwLaGbk/download/Aro%20V2.stl",
       "fecha": "2026-03-29",
-      "nuevo": true
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0
     },
     {
       "id": 28,
@@ -268,7 +320,9 @@
       "imagen": "https://i.imgur.com/cJ04Iuv.jpg",
       "stl": "https://i0004.clarodrive.com/s/soWnBx5WRR8WgeC/download/argentina%20por%20partes_2.3mf",
       "fecha": "2026-03-31",
-      "nuevo": true
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0
     },
     {
       "id": 29,
@@ -278,7 +332,9 @@
       "imagen": "https://i.imgur.com/CBLbHhY.jpg",
       "stl": "https://i0004.clarodrive.com/s/ns5FtDPRT2T6K7R/download/Copa%202%20600ml..3mf",
       "fecha": "2026-04-09",
-      "nuevo": true
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0
     },
     {
       "id": 30,
@@ -288,7 +344,9 @@
       "imagen": "https://i.imgur.com/4EpipT0.jpg",
       "stl": "https://i0004.clarodrive.com/s/EPWCSED8ZrnQ4H5/download/Mate%20Copa%20del%20Mundo.3mf",
       "fecha": "2026-04-10",
-      "nuevo": true
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0
     },
     {
       "id": 31,
@@ -296,9 +354,11 @@
       "descripcion": "3mf",
       "categoria": "Chopp",
       "imagen": "https://i.imgur.com/vbxQNxi.jpg",
-      "stl": "https://i0004.clarodrive.com/s/zGgdDi737oeRMGo/download/COPA%20FERNETERA%20Cortado%20600ml.3mf",
-      "fecha": "2026-04-10",
-      "nuevo": true
+      "stl": "https://i0004.clarodrive.com/s/zGgdDi737oeRMGo/COPA%20FERNETERA%20Cortado%20600ml.3mf",
+      "fecha": "2026-04-22",
+      "nuevo": true,
+      "gratis": true,
+      "precio": 0.0
     }
   ]
 }
