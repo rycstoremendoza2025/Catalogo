@@ -318,11 +318,11 @@
       "descripcion": "Archivo en 3mf incluye el logo",
       "categoria": "Mates",
       "imagen": "https://i.imgur.com/cJ04Iuv.jpg",
-      "stl": "https://i0004.clarodrive.com/s/soWnBx5WRR8WgeC/download/argentina%20por%20partes_2.3mf",
-      "fecha": "2026-03-31",
+      "stl": "https://i0004.clarodrive.com/s/soWnBx5WRR8WgeC/argentina%20por%20partes_2.3mf",
+      "fecha": "2026-04-23",
       "nuevo": true,
-      "gratis": true,
-      "precio": 0
+      "gratis": false,
+      "precio": 3990.0
     },
     {
       "id": 29,
