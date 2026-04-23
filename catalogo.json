@@ -6,11 +6,11 @@
       "descripcion": "Botella cortada 600ml.",
       "categoria": "Chopp",
       "imagen": "https://i.imgur.com/gHGmE78.jpg",
-      "stl": "https://i0004.clarodrive.com/s/ZmzbaBHEZCdoYPf/download/600ml.stl",
-      "fecha": "2026-03-23",
+      "stl": "https://i0004.clarodrive.com/s/ZmzbaBHEZCdoYPf/600ml.stl",
+      "fecha": "2026-04-22",
       "nuevo": true,
-      "gratis": true,
-      "precio": 0
+      "gratis": false,
+      "precio": 6450.0
     },
     {
       "id": 3,
@@ -357,8 +357,8 @@
       "stl": "https://i0004.clarodrive.com/s/zGgdDi737oeRMGo/COPA%20FERNETERA%20Cortado%20600ml.3mf",
       "fecha": "2026-04-22",
       "nuevo": true,
-      "gratis": true,
-      "precio": 0.0
+      "gratis": false,
+      "precio": 3490.0
     }
   ]
 }
