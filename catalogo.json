@@ -66,11 +66,11 @@
       "descripcion": "Archivo en formato 3mf los logos los encuentras en la seccion logos",
       "categoria": "Chopp",
       "imagen": "https://i.imgur.com/r7CtWDi.jpg",
-      "stl": "https://i0004.clarodrive.com/s/ZFLLY5CLyE8YESc/download/Chop%20500ml%20V6%20Dragon%20Ball%20Z.3mf",
-      "fecha": "2026-03-23",
+      "stl": "https://i0004.clarodrive.com/s/ZFLLY5CLyE8YESc/Chop%20500ml%20V6%20Dragon%20Ball%20Z.3mf",
+      "fecha": "2026-04-23",
       "nuevo": true,
-      "gratis": true,
-      "precio": 0
+      "gratis": false,
+      "precio": 5990.0
     },
     {
       "id": 8,
@@ -102,11 +102,11 @@
       "descripcion": "Para polimero escalonado",
       "categoria": "Mates",
       "imagen": "https://i.imgur.com/I1tz2LO.jpg",
-      "stl": "https://i0004.clarodrive.com/s/ML7owHA9EdDQkGC/download/ARGENTINA.3mf",
-      "fecha": "2026-03-23",
+      "stl": "https://i0004.clarodrive.com/s/ML7owHA9EdDQkGC/ARGENTINA.3mf",
+      "fecha": "2026-04-23",
       "nuevo": true,
-      "gratis": true,
-      "precio": 0
+      "gratis": false,
+      "precio": 3990.0
     },
     {
       "id": 11,
@@ -330,11 +330,11 @@
       "descripcion": "3mf",
       "categoria": "Chopp",
       "imagen": "https://i.imgur.com/CBLbHhY.jpg",
-      "stl": "https://i0004.clarodrive.com/s/ns5FtDPRT2T6K7R/download/Copa%202%20600ml..3mf",
-      "fecha": "2026-04-09",
+      "stl": "https://i0004.clarodrive.com/s/ns5FtDPRT2T6K7R/Copa%202%20600ml..3mf",
+      "fecha": "2026-04-23",
       "nuevo": true,
-      "gratis": true,
-      "precio": 0
+      "gratis": false,
+      "precio": 6490.0
     },
     {
       "id": 30,
