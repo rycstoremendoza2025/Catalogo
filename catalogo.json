@@ -18,11 +18,11 @@
       "descripcion": "Chop Barril",
       "categoria": "Chopp",
       "imagen": "https://i.imgur.com/kjyb1oI.jpg",
-      "stl": "https://i0004.clarodrive.com/s/jpyPnJGBgxG5J8W/download/Barril%201L.3mf",
-      "fecha": "2026-03-23",
+      "stl": "https://i0004.clarodrive.com/s/jpyPnJGBgxG5J8W/Barril%201L.3mf",
+      "fecha": "2026-04-26",
       "nuevo": true,
-      "gratis": true,
-      "precio": 0
+      "gratis": false,
+      "precio": 3990.0
     },
     {
       "id": 4,
@@ -78,11 +78,11 @@
       "descripcion": "Archivo en formato 3mf",
       "categoria": "Chopp",
       "imagen": "https://i.imgur.com/TRkkK4m.jpg",
-      "stl": "https://i0004.clarodrive.com/s/SqgfcSi9LcdBe5G/download/Chop%201L%20V5%20River%20Plate.3mf",
-      "fecha": "2026-03-23",
+      "stl": "https://i0004.clarodrive.com/s/SqgfcSi9LcdBe5G/Chop%201L%20V5%20River%20Plate.3mf",
+      "fecha": "2026-04-26",
       "nuevo": true,
-      "gratis": true,
-      "precio": 0
+      "gratis": false,
+      "precio": 7000.0
     },
     {
       "id": 9,
@@ -103,10 +103,10 @@
       "categoria": "Mates",
       "imagen": "https://i.imgur.com/I1tz2LO.jpg",
       "stl": "https://i0004.clarodrive.com/s/ML7owHA9EdDQkGC/ARGENTINA.3mf",
-      "fecha": "2026-04-23",
+      "fecha": "2026-04-26",
       "nuevo": true,
       "gratis": false,
-      "precio": 3990.0
+      "precio": 5000.0
     },
     {
       "id": 11,
@@ -114,11 +114,11 @@
       "descripcion": "Para polimero Escalonado",
       "categoria": "Mates",
       "imagen": "https://i.imgur.com/PL4KBmL.jpg",
-      "stl": "https://i0004.clarodrive.com/s/bdQHQc3xFAAiMxj/download/Stitch%20completo.3mf",
-      "fecha": "2026-03-23",
+      "stl": "https://i0004.clarodrive.com/s/bdQHQc3xFAAiMxj/Stitch%20completo.3mf",
+      "fecha": "2026-04-26",
       "nuevo": true,
-      "gratis": true,
-      "precio": 0
+      "gratis": false,
+      "precio": 4990.0
     },
     {
       "id": 12,
