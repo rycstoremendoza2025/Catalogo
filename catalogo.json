@@ -359,6 +359,18 @@
       "nuevo": true,
       "gratis": false,
       "precio": 3490.0
+    },
+    {
+      "id": 32,
+      "nombre": "Busto Perón",
+      "descripcion": "",
+      "categoria": "Logos",
+      "imagen": "https://i.imgur.com/dzIULy0.jpg",
+      "stl": "https://i0004.clarodrive.com/s/WgnGdoc9BDx4sNy/download/PERON.stl",
+      "fecha": "2026-05-04",
+      "nuevo": true,
+      "gratis": false,
+      "precio": 5000.0
     }
   ]
 }
