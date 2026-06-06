@@ -371,6 +371,54 @@
       "nuevo": true,
       "gratis": false,
       "precio": 5000.0
+    },
+    {
+      "id": 33,
+      "nombre": "Chop la Mona Gimenez Cantando 1L.",
+      "descripcion": "",
+      "categoria": "Chopp",
+      "imagen": "https://i.imgur.com/KIA7ZBa.jpg",
+      "stl": "https://i0004.clarodrive.com/s/LKJbrd8aqS6PQGs/download/LA%20MONA3%20S.3mf",
+      "fecha": "2026-06-06",
+      "nuevo": true,
+      "gratis": false,
+      "precio": 8500.0
+    },
+    {
+      "id": 34,
+      "nombre": "Chop Para equipos por partes 1L.",
+      "descripcion": "",
+      "categoria": "Chopp",
+      "imagen": "https://i.imgur.com/P02GhpS.jpg",
+      "stl": "https://i0004.clarodrive.com/s/tnwBW2PyAAf6TMe/download/Completo.3mf",
+      "fecha": "2026-06-06",
+      "nuevo": true,
+      "gratis": false,
+      "precio": 6000.0
+    },
+    {
+      "id": 35,
+      "nombre": "Chop Cantando Ulises Bueno con Logos 1L.",
+      "descripcion": "",
+      "categoria": "Chopp",
+      "imagen": "https://i.imgur.com/5HhYdII.jpg",
+      "stl": "https://i0004.clarodrive.com/s/TXaLjWYyCk5Eztb/download/Ulises%201L%20con%20logos.3mf",
+      "fecha": "2026-06-06",
+      "nuevo": true,
+      "gratis": false,
+      "precio": 10000.0
+    },
+    {
+      "id": 36,
+      "nombre": "Chop Cammiseta Argentina por partes 1L.",
+      "descripcion": "",
+      "categoria": "Chopp",
+      "imagen": "https://i.imgur.com/BjY7v4P.jpg",
+      "stl": "https://i0004.clarodrive.com/s/Ne67LajbBwyitr9/download/Chop%20Camiseta%20completo.3mf",
+      "fecha": "2026-06-06",
+      "nuevo": true,
+      "gratis": false,
+      "precio": 6500.0
     }
   ]
 }
