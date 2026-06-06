@@ -419,6 +419,30 @@
       "nuevo": true,
       "gratis": false,
       "precio": 6500.0
+    },
+    {
+      "id": 37,
+      "nombre": "Chop Botin Puma por partes 600ml.",
+      "descripcion": "",
+      "categoria": "Chopp",
+      "imagen": "https://i.imgur.com/E8ATQCR.jpg",
+      "stl": "https://i0004.clarodrive.com/s/sKiSNxzWdMjcWPd/download/Chop%20Botin%20600ml..3mf",
+      "fecha": "2026-06-06",
+      "nuevo": true,
+      "gratis": false,
+      "precio": 8000.0
+    },
+    {
+      "id": 38,
+      "nombre": "Mate Botin Adidas escalonado por partes",
+      "descripcion": "",
+      "categoria": "Mates",
+      "imagen": "https://i.imgur.com/IwKy2Wu.jpg",
+      "stl": "https://i0004.clarodrive.com/s/yPMD7J2n7ZQDHtz/download/Mate%20Botin%20adidas.3mf",
+      "fecha": "2026-06-06",
+      "nuevo": true,
+      "gratis": false,
+      "precio": 7000.0
     }
   ]
 }
